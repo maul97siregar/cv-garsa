@@ -1,0 +1,5 @@
+views -> auth-> login.blade dan register.blade
+views -> layout -> app.blade
+Router Comment for HR
+
+Please Check again
